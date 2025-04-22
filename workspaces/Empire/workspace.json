@@ -1,0 +1,30 @@
+{
+  "friendly_name": "Empire C2",
+  "image_src": "empire-c2.png",
+  "description": "Empire is a powerful post-exploitation and adversary emulation framework designed to aid Red Teams and Penetration Testers.",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "C2"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.17.x",
+      "image": "natdaemon/empire:1.0",
+      "uncompressed_size_mb": 8240,
+      "available_tags": [
+        "develop"
+      ]
+    }
+  ]
+}

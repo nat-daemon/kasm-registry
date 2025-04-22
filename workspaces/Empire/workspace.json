@@ -1,6 +1,6 @@
 {
   "friendly_name": "Empire C2",
-  "image_src": "empire-c2.png",
+  "image_src": "empire.png",
   "description": "Empire is a powerful post-exploitation and adversary emulation framework designed to aid Red Teams and Penetration Testers.",
   "cores": 2,
   "memory": 2768,

@@ -1,6 +1,6 @@
 {
   "friendly_name": "Posh C2",
-  "image_src": "posh.png",
+  "image_src": "posh-c2.png",
   "description": "PoshC2 is a proxy aware C2 framework used to aid penetration testers with red teaming, post-exploitation and lateral movement.",
   "cores": 2,
   "memory": 2768,
@@ -20,6 +20,14 @@
   "compatibility": [
     {
       "version": "1.17.x",
+      "image": "natdaemon/posh:1.0",
+      "uncompressed_size_mb": 6460,
+      "available_tags": [
+        "develop"
+      ]
+    },
+    {
+      "version": "1.16.x",
       "image": "natdaemon/posh:1.0",
       "uncompressed_size_mb": 6460,
       "available_tags": [

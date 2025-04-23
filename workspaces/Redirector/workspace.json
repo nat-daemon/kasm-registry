@@ -20,18 +20,18 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "natdaemon/redirector:1.1",
+      "image": "natdaemon/redirector",
       "uncompressed_size_mb": 3870,
       "available_tags": [
-        "develop"
+        "1.1"
       ]
     },
     {
       "version": "1.16.x",
-      "image": "natdaemon/redirector:1.1",
+      "image": "natdaemon/redirector",
       "uncompressed_size_mb": 3870,
       "available_tags": [
-        "develop"
+        "1.1"
       ]
     }
   ],

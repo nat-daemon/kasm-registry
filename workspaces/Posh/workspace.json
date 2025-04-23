@@ -20,18 +20,18 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "natdaemon/posh:1.0",
+      "image": "natdaemon/posh",
       "uncompressed_size_mb": 6460,
       "available_tags": [
-        "develop"
+        "1.0"
       ]
     },
     {
       "version": "1.16.x",
-      "image": "natdaemon/posh:1.0",
+      "image": "natdaemon/posh",
       "uncompressed_size_mb": 6460,
       "available_tags": [
-        "develop"
+        "1.0"
       ]
     }
   ]

@@ -20,18 +20,18 @@
   "compatibility": [
     {
       "version": "1.17.x",
-      "image": "natdaemon/empire:1.0",
+      "image": "natdaemon/empire",
       "uncompressed_size_mb": 8240,
       "available_tags": [
-        "develop"
+        "1.0"
       ]
     },
     {
       "version": "1.16.x",
-      "image": "natdaemon/empire:1.0",
+      "image": "natdaemon/empire",
       "uncompressed_size_mb": 8240,
       "available_tags": [
-        "develop"
+        "1.0"
       ]
     }
   ]

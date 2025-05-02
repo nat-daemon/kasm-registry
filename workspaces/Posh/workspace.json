@@ -23,7 +23,7 @@
       "image": "natdaemon/posh",
       "uncompressed_size_mb": 6460,
       "available_tags": [
-        "1.0"
+        "1.1"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "image": "natdaemon/posh",
       "uncompressed_size_mb": 6460,
       "available_tags": [
-        "1.0"
+        "1.1"
       ]
     }
   ]
